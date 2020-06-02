@@ -1,0 +1,33 @@
+#######################################
+# Syntax Coloring Map For ACS758
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ACS758	KEYWORD1
+ACS758_type	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+calibrate	KEYWORD2
+setSensitivity	KEYWORD2
+getCurrentDC	KEYWORD2
+getCurrentAC	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+ACS758LCB_050B	LITERAL1
+ACS758LCB_050U	LITERAL1
+ACS758ECB_200B	LITERAL1
+ACS758ECB_200U	LITERAL1
+ACS758LCB_100B	LITERAL1
+ACS758LCB_100U	LITERAL1
+ACS758KCB_150B	LITERAL1
+ACS758KCB_150U	LITERAL1
