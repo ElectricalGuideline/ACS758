@@ -6,7 +6,7 @@
 
 // We have 150 amps version sensor connected to A1 pin of arduino
 // Replace with your version if necessary
-ACS758 sensor(ACS758KCB_150B, A1);
+ACS758 sensor(ACS758LCB-050U, A1);
 
 void setup() {
   Serial.begin(9600);
